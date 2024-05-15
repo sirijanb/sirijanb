@@ -55,6 +55,7 @@ Hello! I'm **Sirijan**, an aspiring data analyst on a journey to unravel the sto
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sirijan/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-white?logo=stackoverflow&logoColor=orange&style=flat-square)](https://stackoverflow.com/users/6891294/sirijan)
 
 ## Certifications
 - Microsoft Azure AI Fundamentals Professional Certificate 
