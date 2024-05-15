@@ -1,7 +1,5 @@
 ## About me
-Hello! I'm **Sirijan**, an aspiring data analyst on a journey to unravel the stories hidden within data. I thrive on solving complex problems and possess a sharp analytical mind that loves to dive deep into datasets. 
-🔍 With a passion for turning raw data into actionable insights, I am constantly honing my skills in data analysis and visualization. My knack for clear communication allows me to convey insights effectively, making data-driven decisions a breeze. 
-💼 Beyond data analysis, I bring valuable experience in project management and software development life cycle (SDLC) methodologies.
+As a meticulous problem solver, I thrive on transforming ideas into actionable plans, leveraging my expertise in Data Analysis, Project Management, Leadership, Development, Quality Assurance, and everything pertaining to IT. Currently, I'm on a journey to unravel the stories hidden within data. With a passion for turning raw data into actionable insights, I am constantly honing my skills in data analysis and visualization. My knack for clear communication allows me to convey insights effectively, making data-driven decisions a breeze.
 
 ## Summary of qualifications
 - 8+ years of experience working as a software developer in the IT industry 
