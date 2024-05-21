@@ -1,3 +1,6 @@
+# Sirijan - Data Analyst
+Delving into the data and deriving the useful insights, leveraging technologies like IBM Cognos, Python & Excel.
+
 ## About me
 As a meticulous problem solver, I thrive on transforming ideas into actionable plans, leveraging my expertise in Data Analysis, Project Management, Leadership, Development, Quality Assurance, and everything pertaining to IT. Currently, I'm on a journey to unravel the stories hidden within data. With a passion for turning raw data into actionable insights, I am constantly honing my skills in data analysis and visualization. My knack for clear communication allows me to convey insights effectively, making data-driven decisions a breeze.
 
