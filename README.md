@@ -35,7 +35,11 @@ As a meticulous problem solver, I thrive on transforming ideas into actionable p
 - MongoDB Node.js Developer Path Certificate
 
 ## Projects
-**Octro Poker:** **[Android_App](https://play.google.com/store/apps/details?id=com.octro.pokerlive) | [iOS_App](https://apps.apple.com/in/app/poker-live-3d-texas-holdem/id1018155306)**
+**GameOnn Studio:** **[Website](https://www.gameonnstudio.com/)** ![c](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY2emlsZjY1NTduZWt5NHF4aHZ1b2VwandoZGdjc21zZmh2Nm1nMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rFsm3p6zCvScU/giphy.gif)
+
+**Hand Cricket:** **[Android App](https://play.google.com/store/apps/details?id=com.GameOnnStudio.HandCricket)** ![c](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY2emlsZjY1NTduZWt5NHF4aHZ1b2VwandoZGdjc21zZmh2Nm1nMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rFsm3p6zCvScU/giphy.gif)
+
+**Octro Poker:** **[Android_App](https://play.google.com/store/apps/details?id=com.octro.pokerlive) | [iOS_App](https://apps.apple.com/in/app/poker-live-3d-texas-holdem/id1018155306)** ![c](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY2emlsZjY1NTduZWt5NHF4aHZ1b2VwandoZGdjc21zZmh2Nm1nMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rFsm3p6zCvScU/giphy.gif)
 
 **Teen Patti:** **[Android_App](https://play.google.com/store/apps/details?id=com.octro.teenpatti) | [iOS_App](https://apps.apple.com/in/app/teen-patti-by-octro/id653418482)**
 
